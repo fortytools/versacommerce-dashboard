@@ -1,2 +1,5 @@
-*DS_STORE
+*.swo
+*.swp
+
 history.yml
+
